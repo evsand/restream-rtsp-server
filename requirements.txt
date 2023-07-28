@@ -1,0 +1,7 @@
+numpy==1.25.1
+opencv-contrib-python==4.8.0.74
+opencv-python @ file:///home/andre/.local/lib/python3.10/site-packages/opencv-python/opencv_python-4.8.0%2B43cd716-cp310-cp310-linux_x86_64.whl#sha256=d85d9b86ba09b36852642958ae4725a96864a95fd261b1f960262dbdb0159858
+pgi==0.0.11.2
+pycairo==1.24.0
+PyGObject==3.44.1
+PyGObject-stubs==2.8.0
